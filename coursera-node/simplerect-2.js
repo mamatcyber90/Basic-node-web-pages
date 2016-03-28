@@ -1,3 +1,4 @@
+// uses call-back function
 var rect=require('./rect-2');
 
 function solverect(l,b){

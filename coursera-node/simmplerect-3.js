@@ -1,3 +1,4 @@
+// uses command line arguements
 var argv=require('yargs')
 	.argv;
 
